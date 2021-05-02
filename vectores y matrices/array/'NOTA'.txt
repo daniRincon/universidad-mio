@@ -1,0 +1,1 @@
+Mi mamá me pidio el favor de que le ayudara a solucionar un problema que tenia con su telefono, siempre ella guardaba un contacto se le borraba, por tal razon yo me tome la tarea de crearle un programa le permitiera guardar los contactos en otra parte para que tuviera una copia de suguridad de respaldo 

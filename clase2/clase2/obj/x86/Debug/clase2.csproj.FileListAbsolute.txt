@@ -1,0 +1,6 @@
+/home/hackdan/Escritorio/Todo programación/clase2/clase2/bin/Debug/clase2.exe
+/home/hackdan/Escritorio/Todo programación/clase2/clase2/bin/Debug/clase2.pdb
+/home/hackdan/Escritorio/Todo programación/clase2/clase2/obj/x86/Debug/clase2.csprojAssemblyReference.cache
+/home/hackdan/Escritorio/Todo programación/clase2/clase2/obj/x86/Debug/clase2.csproj.CoreCompileInputs.cache
+/home/hackdan/Escritorio/Todo programación/clase2/clase2/obj/x86/Debug/clase2.exe
+/home/hackdan/Escritorio/Todo programación/clase2/clase2/obj/x86/Debug/clase2.pdb

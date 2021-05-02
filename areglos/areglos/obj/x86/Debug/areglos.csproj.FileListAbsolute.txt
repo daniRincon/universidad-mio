@@ -1,0 +1,6 @@
+/home/hackdan/Escritorio/Todo programación/areglos/areglos/bin/Debug/areglos.exe
+/home/hackdan/Escritorio/Todo programación/areglos/areglos/bin/Debug/areglos.pdb
+/home/hackdan/Escritorio/Todo programación/areglos/areglos/obj/x86/Debug/areglos.csprojAssemblyReference.cache
+/home/hackdan/Escritorio/Todo programación/areglos/areglos/obj/x86/Debug/areglos.csproj.CoreCompileInputs.cache
+/home/hackdan/Escritorio/Todo programación/areglos/areglos/obj/x86/Debug/areglos.exe
+/home/hackdan/Escritorio/Todo programación/areglos/areglos/obj/x86/Debug/areglos.pdb

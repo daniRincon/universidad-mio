@@ -1,0 +1,6 @@
+/home/hackdan/Escritorio/Todo programación/portafolio1/portafolio1/bin/Debug/portafolio1.exe
+/home/hackdan/Escritorio/Todo programación/portafolio1/portafolio1/bin/Debug/portafolio1.pdb
+/home/hackdan/Escritorio/Todo programación/portafolio1/portafolio1/obj/x86/Debug/portafolio1.csprojAssemblyReference.cache
+/home/hackdan/Escritorio/Todo programación/portafolio1/portafolio1/obj/x86/Debug/portafolio1.csproj.CoreCompileInputs.cache
+/home/hackdan/Escritorio/Todo programación/portafolio1/portafolio1/obj/x86/Debug/portafolio1.exe
+/home/hackdan/Escritorio/Todo programación/portafolio1/portafolio1/obj/x86/Debug/portafolio1.pdb

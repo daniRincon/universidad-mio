@@ -1,0 +1,13 @@
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\bin\Debug\netcoreapp3.1\array.exe
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\bin\Debug\netcoreapp3.1\array.deps.json
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.json
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.dev.json
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\bin\Debug\netcoreapp3.1\array.dll
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\bin\Debug\netcoreapp3.1\array.pdb
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\obj\Debug\netcoreapp3.1\array.csprojAssemblyReference.cache
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\obj\Debug\netcoreapp3.1\array.csproj.CoreCompileInputs.cache
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\obj\Debug\netcoreapp3.1\array.AssemblyInfoInputs.cache
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\obj\Debug\netcoreapp3.1\array.AssemblyInfo.cs
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\obj\Debug\netcoreapp3.1\array.dll
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\obj\Debug\netcoreapp3.1\array.pdb
+D:\DANIEL MARTINEZ\PROGRAMACION\programacion c#\array\obj\Debug\netcoreapp3.1\array.genruntimeconfig.cache

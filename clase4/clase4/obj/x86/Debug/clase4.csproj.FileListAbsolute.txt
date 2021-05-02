@@ -1,0 +1,6 @@
+/home/hackdan/Escritorio/Todo programación/clase4/clase4/bin/Debug/clase4.exe
+/home/hackdan/Escritorio/Todo programación/clase4/clase4/bin/Debug/clase4.pdb
+/home/hackdan/Escritorio/Todo programación/clase4/clase4/obj/x86/Debug/clase4.csprojAssemblyReference.cache
+/home/hackdan/Escritorio/Todo programación/clase4/clase4/obj/x86/Debug/clase4.csproj.CoreCompileInputs.cache
+/home/hackdan/Escritorio/Todo programación/clase4/clase4/obj/x86/Debug/clase4.exe
+/home/hackdan/Escritorio/Todo programación/clase4/clase4/obj/x86/Debug/clase4.pdb

@@ -1,0 +1,6 @@
+/home/hackdan/Escritorio/Todo programación/clase_5_listas/clase_5_listas/bin/Debug/clase_5_listas.exe
+/home/hackdan/Escritorio/Todo programación/clase_5_listas/clase_5_listas/bin/Debug/clase_5_listas.pdb
+/home/hackdan/Escritorio/Todo programación/clase_5_listas/clase_5_listas/obj/x86/Debug/clase_5_listas.csprojAssemblyReference.cache
+/home/hackdan/Escritorio/Todo programación/clase_5_listas/clase_5_listas/obj/x86/Debug/clase_5_listas.csproj.CoreCompileInputs.cache
+/home/hackdan/Escritorio/Todo programación/clase_5_listas/clase_5_listas/obj/x86/Debug/clase_5_listas.exe
+/home/hackdan/Escritorio/Todo programación/clase_5_listas/clase_5_listas/obj/x86/Debug/clase_5_listas.pdb
