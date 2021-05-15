@@ -1,0 +1,7 @@
+C:\Users\Guardia\source\repos\Tienda_listas\bin\Debug\Tienda_listas.exe.config
+C:\Users\Guardia\source\repos\Tienda_listas\bin\Debug\Tienda_listas.exe
+C:\Users\Guardia\source\repos\Tienda_listas\bin\Debug\Tienda_listas.pdb
+C:\Users\Guardia\source\repos\Tienda_listas\obj\Debug\Tienda_listas.csprojAssemblyReference.cache
+C:\Users\Guardia\source\repos\Tienda_listas\obj\Debug\Tienda_listas.csproj.CoreCompileInputs.cache
+C:\Users\Guardia\source\repos\Tienda_listas\obj\Debug\Tienda_listas.exe
+C:\Users\Guardia\source\repos\Tienda_listas\obj\Debug\Tienda_listas.pdb
