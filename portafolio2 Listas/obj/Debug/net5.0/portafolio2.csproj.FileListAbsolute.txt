@@ -1,0 +1,16 @@
+C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.exe
+C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.deps.json
+C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.runtimeconfig.json
+C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.runtimeconfig.dev.json
+C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.dll
+C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\ref\portafolio2.dll
+C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.pdb
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.AssemblyInfo.cs
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.dll
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\ref\portafolio2.dll
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.pdb
+C:\Users\danie\Desktop\todo programación\portafolio2\obj\Debug\net5.0\portafolio2.genruntimeconfig.cache

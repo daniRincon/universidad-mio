@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>portafolio2</id>
+    <version>1.0.0</version>
+    <authors>portafolio2</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.runtimeconfig.json" target="lib\net5.0\portafolio2.runtimeconfig.json" />
+    <file src="C:\Users\danie\Desktop\todo programación\portafolio2\bin\Debug\net5.0\portafolio2.dll" target="lib\net5.0\portafolio2.dll" />
+  </files>
+</package>
